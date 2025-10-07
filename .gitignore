@@ -1,0 +1,5 @@
+data
+venv
+*.docx
+*.doc
+descriptive.ipynb
